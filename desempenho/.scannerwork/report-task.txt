@@ -1,6 +1,6 @@
 projectKey=Desempenho
 serverUrl=http://localhost:9000
-serverVersion=6.7.5.38563
-dashboardUrl=http://localhost:9000/dashboard/index/Desempenho
-ceTaskId=AWbU8RZFnqGZIRt8hywb
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWbU8RZFnqGZIRt8hywb
+serverVersion=7.4.0.18908
+dashboardUrl=http://localhost:9000/dashboard?id=Desempenho
+ceTaskId=AWdgQdO0vOjsC2X3_lMl
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWdgQdO0vOjsC2X3_lMl
